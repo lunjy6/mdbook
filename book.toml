@@ -1,0 +1,16 @@
+[book]
+authors = ["龍祥周"]
+language = "en"
+multilingual = false
+src = "src"
+title = "香腸方丈耍花槍"
+
+[preprocessor]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output]
+
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
