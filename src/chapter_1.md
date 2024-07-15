@@ -1,7 +1,7 @@
 # Chapter 1
 
 ```mermaid
-    flowchart TD;
+    graph TD;
         A-->B;
         A-->C;
         B-->D;
